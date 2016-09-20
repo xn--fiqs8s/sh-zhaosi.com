@@ -1,0 +1,13 @@
+humanstxt.org/
+
+# TEAM
+
+  Developer -- Nicola Gagliardi 
+
+# TECHNOLOGY
+
+  Middleman, SCSS
+  Bootstrap, jQuery, Livereload, Autoprefixer
+  rbenv, ruby-build, nodejs, bundler
+  modern-business-template,
+  Font Awesome, favicon-maker
